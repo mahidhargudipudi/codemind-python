@@ -1,2 +1,2 @@
-a=int(input())
-print(3.14*a**2)
+r=int(input())
+print(3.14*r**2)
